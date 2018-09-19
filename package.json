@@ -1,0 +1,19 @@
+{
+  "name": "d3-scribbletune-scale-scaling",
+  "version": "1.0.0",
+  "description": "Mapping numeric values to notes in a musical scale with D3 and scribbletune.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "d3-scale": "2.1.2",
+    "scribbletune": "1.5.0",
+    "tone": "0.12.80"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
